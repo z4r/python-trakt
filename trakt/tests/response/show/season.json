@@ -1,0 +1,262 @@
+[
+    {
+        "season": 1,
+        "episode": 1,
+        "number": 1,
+        "tvdb_id": 4383263,
+        "title": "Pilot",
+        "overview": "The Americans is a period drama about the complex marriage of two KGB spies posing as Americans in suburban Washington D.C. shortly after Ronald Reagan is elected President. The arranged marriage of Philip and Elizabeth Jennings grows more passionate and genuine by the day, but is constantly tested by the escalation of the Cold War. Tensions heighten upon the arrival of a new neighbor, Stan Beeman, an FBI agent. ",
+        "first_aired": 1359532800,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/1",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-1.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-1.9.jpg"
+        },
+        "ratings": {
+            "percentage": 83,
+            "votes": 140,
+            "loved": 136,
+            "hated": 4
+        }
+    },
+    {
+        "season": 1,
+        "episode": 2,
+        "number": 2,
+        "tvdb_id": 4428999,
+        "title": "The Clock",
+        "overview": "When Philip and Elizabeth are given an urgent task to plant a bug in Defense Secretary Caspar Weinberger's office, they risk exposure when an unwilling maid of the Weinberger home refuses to cooperate. Stan closes in on a member of the Soviet Rezidentura in an effort to uncover the identities of deep cover Directorate S operatives.",
+        "first_aired": 1360137600,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/2",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-2.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-2.9.jpg"
+        },
+        "ratings": {
+            "percentage": 81,
+            "votes": 93,
+            "loved": 92,
+            "hated": 1
+        }
+    },
+    {
+        "season": 1,
+        "episode": 3,
+        "number": 3,
+        "tvdb_id": 4429000,
+        "title": "Gregory",
+        "overview": "Philip and Elizabeth discover that their murdered colleague Robert had a wife they never knew about. As they try to determine what she knows and where her allegiance lies, Stan's investigation into Robert's death puts him hot on their trail.",
+        "first_aired": 1360742400,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/3",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-3.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-3.9.jpg"
+        },
+        "ratings": {
+            "percentage": 82,
+            "votes": 78,
+            "loved": 78,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 4,
+        "number": 4,
+        "tvdb_id": 4429001,
+        "title": "In Control",
+        "overview": "When an assassin attempts to kill President Reagan, Philip and Elizabeth scramble to handle the fallout within the KGB. Meanwhile, Stan pressures his source within the Rezidentura to find out if the KGB was responsible for the attempted assassination.",
+        "first_aired": 1361347200,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/4",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-4.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-4.9.jpg"
+        },
+        "ratings": {
+            "percentage": 83,
+            "votes": 66,
+            "loved": 65,
+            "hated": 1
+        }
+    },
+    {
+        "season": 1,
+        "episode": 5,
+        "number": 5,
+        "tvdb_id": 4429002,
+        "title": "COMINT",
+        "overview": "A crucial agent crumbles under emotional distress and threatens to topple a valuable network of KGB informants. Professionally, Philip and Elizabeth are tasked with infiltrating the FBI's new communications encryption system while personally they are forced to grapple with one of the darker aspects of life as a spy.",
+        "first_aired": 1361952000,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/5",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-5.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-5.9.jpg"
+        },
+        "ratings": {
+            "percentage": 85,
+            "votes": 60,
+            "loved": 59,
+            "hated": 1
+        }
+    },
+    {
+        "season": 1,
+        "episode": 6,
+        "number": 6,
+        "tvdb_id": 4429003,
+        "title": "Trust Me",
+        "overview": "A mole hunt within the KGB causes suspicion amongst allies and shatters trust within the Jennings' marriage. Meanwhile, Stan's plan to keep his mole safe puts her at even greater risk of discovery.",
+        "first_aired": 1362556800,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/6",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-6.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-6.9.jpg"
+        },
+        "ratings": {
+            "percentage": 88,
+            "votes": 61,
+            "loved": 61,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 7,
+        "number": 7,
+        "tvdb_id": 4429004,
+        "title": "Duty and Honor",
+        "overview": "Philip and Elizabeth's troubled marriage is further tested when a mission to discredit a Polish pro-democracy leader reunites Philip with his old flame.",
+        "first_aired": 1363158000,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/7",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-7.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-7.9.jpg"
+        },
+        "ratings": {
+            "percentage": 87,
+            "votes": 60,
+            "loved": 60,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 8,
+        "number": 8,
+        "tvdb_id": 4495414,
+        "title": "Mutually Assured Destruction",
+        "overview": "Philip and Elizabeth must stop an assassin from taking out key US scientists, while Stan and the FBI hunt the same man. Grannie shocks Elizabeth with the truth of what happened between Philip and Irina in New York.",
+        "first_aired": 1363762800,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/8",
+        "screen": "http://slurm.trakt.us/images/episodes/19488-1-8.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/episodes/19488-1-8.9.jpg"
+        },
+        "ratings": {
+            "percentage": 84,
+            "votes": 32,
+            "loved": 32,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 9,
+        "number": 9,
+        "tvdb_id": 4516404,
+        "title": "Safe House",
+        "overview": "",
+        "first_aired": 1364972400,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/9",
+        "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg"
+        },
+        "ratings": {
+            "percentage": 0,
+            "votes": 0,
+            "loved": 0,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 10,
+        "number": 10,
+        "tvdb_id": 4516405,
+        "title": "Only You",
+        "overview": "",
+        "first_aired": 1365577200,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/10",
+        "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg"
+        },
+        "ratings": {
+            "percentage": 0,
+            "votes": 0,
+            "loved": 0,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 11,
+        "number": 11,
+        "tvdb_id": 4516406,
+        "title": "Covert War",
+        "overview": "",
+        "first_aired": 1366182000,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/11",
+        "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg"
+        },
+        "ratings": {
+            "percentage": 0,
+            "votes": 0,
+            "loved": 0,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 12,
+        "number": 12,
+        "tvdb_id": 4516407,
+        "title": "TBA",
+        "overview": "",
+        "first_aired": 1366786800,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/12",
+        "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg"
+        },
+        "ratings": {
+            "percentage": 0,
+            "votes": 0,
+            "loved": 0,
+            "hated": 0
+        }
+    },
+    {
+        "season": 1,
+        "episode": 13,
+        "number": 13,
+        "tvdb_id": 4516408,
+        "title": "TBA",
+        "overview": "",
+        "first_aired": 1367391600,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/13",
+        "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg",
+        "images": {
+            "screen": "http://slurm.trakt.us/images/fanart/19488-940.9.jpg"
+        },
+        "ratings": {
+            "percentage": 0,
+            "votes": 0,
+            "loved": 0,
+            "hated": 0
+        }
+    }
+]

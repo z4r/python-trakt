@@ -1,0 +1,40 @@
+{
+    "timestamps": {
+        "start": 1363933987,
+        "current": 1363950328
+    },
+    "shows": [
+        {
+            "last_updated": 1363941206,
+            "tvdb_id": 267947
+        },
+        {
+            "last_updated": 1363936900,
+            "tvdb_id": 257567
+        },
+        {
+            "last_updated": 1363936025,
+            "tvdb_id": 262109
+        },
+        {
+            "last_updated": 1363934887,
+            "tvdb_id": 219631
+        },
+        {
+            "last_updated": 1363934348,
+            "tvdb_id": 248812
+        },
+        {
+            "last_updated": 1363933987,
+            "tvdb_id": 164541
+        },
+        {
+            "last_updated": 1363934329,
+            "tvdb_id": 77725
+        },
+        {
+            "last_updated": 1363934070,
+            "tvdb_id": 79349
+        }
+    ]
+}

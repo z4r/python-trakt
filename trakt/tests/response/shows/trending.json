@@ -1,0 +1,34 @@
+[
+    {
+        "title": "The Big Bang Theory",
+        "year": 2007,
+        "url": "http://trakt.tv/show/the-big-bang-theory",
+        "first_aired": 1190617200,
+        "country": "United States",
+        "overview": "Leonard Hofstadter and Sheldon Cooper are brilliant physicists, the kind of \"beautiful minds\" that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door. Sheldon, Leonard's roommate, is quite content spending his nights playing Klingon Boggle with their socially dysfunctional friends, fellow CalTech scientists Howard Wolowitz and Raj Koothrappali. However, Leonard sees in Penny a whole new universe of possibilities... including love.",
+        "runtime": 30,
+        "network": "CBS",
+        "air_day": "Thursday",
+        "air_time": "8:00pm",
+        "certification": "TV-PG",
+        "imdb_id": "tt0898266",
+        "tvdb_id": "80379",
+        "tvrage_id": "8511",
+        "poster": "http://slurm.trakt.us/images/posters/34.31.jpg",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/34.31.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/34.31.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/34.31.jpg"
+        },
+        "watchers": 13,
+        "ratings": {
+            "percentage": 90,
+            "votes": 10663,
+            "loved": 9994,
+            "hated": 669
+        },
+        "genres": [
+            "Comedy"
+        ]
+    }
+]

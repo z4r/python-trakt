@@ -1,0 +1,20 @@
+[
+    {
+        "season": 1,
+        "episodes": 13,
+        "url": "http://trakt.tv/show/the-americans-2013/season/1",
+        "poster": "http://slurm.trakt.us/images/seasons/19488-1.9.jpg",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/seasons/19488-1.9.jpg"
+        }
+    },
+    {
+        "season": 0,
+        "episodes": 1,
+        "url": "http://trakt.tv/show/the-americans-2013/specials",
+        "poster": "http://slurm.trakt.us/images/posters/19488.9.jpg",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/19488.9.jpg"
+        }
+    }
+]

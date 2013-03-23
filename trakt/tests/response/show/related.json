@@ -1,0 +1,321 @@
+[
+    {
+        "title": "Game of Thrones",
+        "year": 2011,
+        "url": "http://trakt.tv/show/game-of-thrones",
+        "first_aired": 1303023600,
+        "country": "United States",
+        "overview": "Based on the fantasy novel series \"A Song of Ice and Fire,\" Game of Thrones explores the story of an epic battle among seven kingdoms and two ruling families in the only game that matters - the Game of Thrones. All seek control of the Iron Throne, the possession of which ensures survival through the 40-year winter to come.",
+        "runtime": 60,
+        "network": "HBO",
+        "air_day": "Sunday",
+        "air_time": "9:00pm",
+        "certification": "TV-MA",
+        "imdb_id": "tt0944947",
+        "tvdb_id": "121361",
+        "tvrage_id": "24493",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/1395.10.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/1395.10.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/1395.10.jpg"
+        },
+        "ratings": {
+            "percentage": 96,
+            "votes": 9158,
+            "loved": 9004,
+            "hated": 154
+        },
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Firefly",
+        "year": 2002,
+        "url": "http://trakt.tv/show/firefly",
+        "first_aired": 1032505200,
+        "country": "United States",
+        "overview": "In the far-distant future, Captain Malcolm \"Mal\" Reynolds is a renegade former brown-coat sergeant, now turned smuggler & rogue, who is the commander of a small spacecraft, with a loyal hand-picked crew made up of the first mate, Zoe Warren; the pilot Hoban \"Wash\" Washburn; the gung-ho grunt Jayne Cobb; the engineer Kaylee Frye; the fugitives Dr. Simon Tam and his psychic sister River. Together, they travel the far reaches of space in search of food, money, and anything to live on.",
+        "runtime": 45,
+        "network": "FOX",
+        "air_day": "Friday",
+        "air_time": "8:00pm",
+        "certification": "TV-14",
+        "imdb_id": "tt0303461",
+        "tvdb_id": "78874",
+        "tvrage_id": "3548",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/306.3.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/306.3.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/306.3.jpg"
+        },
+        "ratings": {
+            "percentage": 96,
+            "votes": 3231,
+            "loved": 3182,
+            "hated": 49
+        },
+        "genres": [
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    {
+        "title": "Breaking Bad",
+        "year": 2008,
+        "url": "http://trakt.tv/show/breaking-bad",
+        "first_aired": 1200816000,
+        "country": "United States",
+        "overview": "Walter White, a struggling high school chemistry teacher is diagnosed with advanced lung cancer. He turns to a life of crime, producing and selling methamphetamine accompanied by a former student, Jesse Pinkman with the aim of securing his family's financial future before he dies.",
+        "runtime": 60,
+        "network": "AMC",
+        "air_day": "Sunday",
+        "air_time": "10:00pm",
+        "certification": "TV-MA",
+        "imdb_id": "tt0903747",
+        "tvdb_id": "81189",
+        "tvrage_id": "18164",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/126.21.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/126.21.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/126.21.jpg"
+        },
+        "ratings": {
+            "percentage": 96,
+            "votes": 7811,
+            "loved": 7668,
+            "hated": 143
+        },
+        "genres": [
+            "Drama",
+            "Crime",
+            "Suspense"
+        ]
+    },
+    {
+        "title": "Band Of Brothers",
+        "year": 2001,
+        "url": "http://trakt.tv/show/band-of-brothers",
+        "first_aired": 1000018800,
+        "country": "United States",
+        "overview": "Executive produced by Steven Spielberg and Tom Hanks for HBO, Band of Brothers is a ten-part miniseries based on the book Band of Brothers: E Company, 506th Regiment, 101st Airborne From Normandy to Hitler's Eagle's Nest by Steven E. Ambrose. The Series dramatically re-creates the path of Easy Company, an elite paratrooper unit, from their basic training at Camp Toccoa in Georgia in 1942, to D-Day, to their critical involvement in the Battle of the Bulge, through their triumph at the close of the war.",
+        "runtime": 60,
+        "network": "HBO",
+        "air_day": "Sunday",
+        "air_time": "8:00pm",
+        "certification": "TV-MA",
+        "imdb_id": "tt0185906",
+        "tvdb_id": "74205",
+        "tvrage_id": "2708",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/304.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/304.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/304.jpg"
+        },
+        "ratings": {
+            "percentage": 96,
+            "votes": 2113,
+            "loved": 2094,
+            "hated": 19
+        },
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mini Series"
+        ]
+    },
+    {
+        "title": "Sherlock",
+        "year": 2010,
+        "url": "http://trakt.tv/show/sherlock",
+        "first_aired": 1280041200,
+        "country": "United Kingdom",
+        "overview": "Sherlock depicts \"consulting detective\" Holmes, assisting the Metropolitan Police Service, primarily DI Greg Lestrade, in solving various crimes. Holmes is assisted by his flatmate, Dr John Watson, who has returned from military service in Afghanistan. Although the series depicts a variety of crimes and perpetrators, Holmes' conflict with his archnemesis Jim Moriarty is a recurring feature.",
+        "runtime": 90,
+        "network": "BBC One",
+        "air_day": "Sunday",
+        "air_time": "8:30pm",
+        "certification": "TV-14",
+        "imdb_id": "tt1475582",
+        "tvdb_id": "176941",
+        "tvrage_id": "23433",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/178.2.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/178.2.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/178.2.jpg"
+        },
+        "ratings": {
+            "percentage": 95,
+            "votes": 4128,
+            "loved": 4072,
+            "hated": 56
+        },
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Wire",
+        "year": 2002,
+        "url": "http://trakt.tv/show/the-wire",
+        "first_aired": 1023001200,
+        "country": "United States",
+        "overview": "Unlike most television crime dramas, which neatly introduce and then solve a case all in the space of one hour, HBO's THE WIRE follows one single drug and homicide investigation throughout the length of an entire season. Centered on the drug culture of inner-city Baltimore, the series' storyline unfolds from the points of view of both the criminals lording the streets and the police officers determined to bring them down.",
+        "runtime": 60,
+        "network": "HBO",
+        "air_day": "Sunday",
+        "air_time": "9:00pm",
+        "certification": "TV-MA",
+        "imdb_id": "tt0306414",
+        "tvdb_id": "79126",
+        "tvrage_id": "6296",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/311.1.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/311.1.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/311.1.jpg"
+        },
+        "ratings": {
+            "percentage": 95,
+            "votes": 1899,
+            "loved": 1847,
+            "hated": 52
+        },
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Dexter",
+        "year": 2006,
+        "url": "http://trakt.tv/show/dexter",
+        "first_aired": 1159686000,
+        "country": "United States",
+        "overview": "Based on Jeff Lindsay's novels \"Darkly Dreaming Dexter\" and \"Dearly Devoted Dexter\", this crime thriller follows Dexter Morgan, a forensic blood spatter expert for the Miami Metro Police Department. Thanks to a code instilled in him by his foster father, Harry, he hunts down people who have escaped justice and makes sure they don't get away with a crime again.",
+        "runtime": 60,
+        "network": "Showtime",
+        "air_day": "Sunday",
+        "air_time": "9:00pm",
+        "certification": "TV-MA",
+        "imdb_id": "tt0773262",
+        "tvdb_id": "79349",
+        "tvrage_id": "7926",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/97.8.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/97.8.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/97.8.jpg"
+        },
+        "ratings": {
+            "percentage": 93,
+            "votes": 8539,
+            "loved": 8273,
+            "hated": 266
+        },
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Doctor Who (2005)",
+        "year": 2005,
+        "url": "http://trakt.tv/show/doctor-who-2005",
+        "first_aired": 1111824000,
+        "country": "United Kingdom",
+        "overview": "The Doctor looks and seems human. He's handsome, witty, and could be mistaken for just another man in the street. But he is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living – more of a hobby actually, and he's very, very good at it.  He's saved us from alien menaces and evil from before time began – but just who is he?",
+        "runtime": 50,
+        "network": "BBC One",
+        "air_day": "Saturday",
+        "air_time": "7:20pm",
+        "certification": "TV-PG",
+        "imdb_id": "tt0436992",
+        "tvdb_id": "78804",
+        "tvrage_id": "3332",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/198.16.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/198.16.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/198.16.jpg"
+        },
+        "ratings": {
+            "percentage": 94,
+            "votes": 3121,
+            "loved": 3010,
+            "hated": 111
+        },
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Sopranos",
+        "year": 1999,
+        "url": "http://trakt.tv/show/the-sopranos",
+        "first_aired": 915955200,
+        "country": "United States",
+        "overview": "Meet Tony Soprano: your average, middle-aged businessman. Tony's got a dutiful wife. A not-so-dutiful son. A daughter named Meadow. An uncle who's losing his marbles. A hot-headed nephew. A not-too-secret mistress. And a shrink to tell all his secrets, except the one she already knows: Tony's a mob boss whose troubles are wrapped up in his two families. These days, it's getting tougher and tougher to make a killing in the killing business. Just because you're \"made\" doesn't mean you've got it made.",
+        "runtime": 60,
+        "network": "HBO",
+        "air_day": "Sunday",
+        "air_time": "9:00pm",
+        "certification": "TV-MA",
+        "imdb_id": "tt0141842",
+        "tvdb_id": "75299",
+        "tvrage_id": "6206",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/314.3.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/314.3.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/314.3.jpg"
+        },
+        "ratings": {
+            "percentage": 95,
+            "votes": 1578,
+            "loved": 1543,
+            "hated": 35
+        },
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Battlestar Galactica (2003)",
+        "year": 2003,
+        "url": "http://trakt.tv/show/battlestar-galactica-2003",
+        "first_aired": 1070870400,
+        "country": "United States",
+        "overview": "In a distant part of the universe, a civilization of humans live on planets known as the Twelve Colonies. In the past, the Colonies have been at war with a cybernetic race known as the Cylons. 40 years after the first war the Cylons launch a devastating attack on the Colonies. The only military ship that survived the attack takes up the task of leading a small fugitive fleet of survivors into space in search of a fabled refuge known as Earth.",
+        "runtime": 60,
+        "network": "SciFi",
+        "air_day": "Friday",
+        "air_time": "10:00pm",
+        "certification": "TV-14",
+        "imdb_id": "tt0407362",
+        "tvdb_id": "73545",
+        "tvrage_id": "2730",
+        "images": {
+            "poster": "http://slurm.trakt.us/images/posters/66.jpg",
+            "fanart": "http://slurm.trakt.us/images/fanart/66.jpg",
+            "banner": "http://slurm.trakt.us/images/banners/66.jpg"
+        },
+        "ratings": {
+            "percentage": 93,
+            "votes": 3390,
+            "loved": 3274,
+            "hated": 116
+        },
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Science Fiction"
+        ]
+    }
+]

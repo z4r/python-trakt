@@ -1,0 +1,337 @@
+{
+    "title": "The Americans (2013)",
+    "year": 2013,
+    "url": "http://trakt.tv/show/the-americans-2013",
+    "first_aired": 1359532800,
+    "country": "United States",
+    "overview": "The Americans is a period drama about the complex marriage of two KGB spies posing as Americans in suburban Washington D.C. shortly after Ronald Reagan is elected President. The arranged marriage of Philip and Elizabeth Jennings, who have two children - 13-year-old Paige and 10-year-old Henry, who know nothing about their parents' true identity - grows more passionate and genuine by the day, but is constantly tested by the escalation of the Cold War and the intimate, dangerous and darkly funny relationships they must maintain with a network of spies and informants under their control.",
+    "runtime": 60,
+    "status": "Continuing",
+    "network": "FX",
+    "air_day": "Wednesday",
+    "air_time": "10:00pm",
+    "certification": "TV-MA",
+    "imdb_id": "tt2149175",
+    "tvdb_id": 261690,
+    "tvrage_id": 30449,
+    "last_updated": 1363925323,
+    "poster": "http://slurm.trakt.us/images/posters/19488.9.jpg",
+    "images": {
+        "poster": "http://slurm.trakt.us/images/posters/19488.9.jpg",
+        "fanart": "http://slurm.trakt.us/images/fanart/19488.9.jpg",
+        "banner": "http://slurm.trakt.us/images/banners/19488.9.jpg"
+    },
+    "top_watchers": [
+        {
+            "plays": 31,
+            "username": "abados",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatar-large.jpg",
+            "url": "http://trakt.tv/user/abados"
+        },
+        {
+            "plays": 22,
+            "username": "jpscott84",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatar-large.jpg",
+            "url": "http://trakt.tv/user/jpscott84"
+        },
+        {
+            "plays": 13,
+            "username": "oldmangloom",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatars/39695.1.jpg",
+            "url": "http://trakt.tv/user/oldmangloom"
+        },
+        {
+            "plays": 12,
+            "username": "dars55",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatars/23323.5.jpg",
+            "url": "http://trakt.tv/user/dars55"
+        },
+        {
+            "plays": 12,
+            "username": "Hung0v3r",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatars/174723.1.jpg",
+            "url": "http://trakt.tv/user/Hung0v3r"
+        },
+        {
+            "plays": 11,
+            "username": "denm",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatar-large.jpg",
+            "url": "http://trakt.tv/user/denm"
+        },
+        {
+            "plays": 10,
+            "username": "Chakkaa",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatar-large.jpg",
+            "url": "http://trakt.tv/user/Chakkaa"
+        },
+        {
+            "plays": 10,
+            "username": "shashank",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatar-large.jpg",
+            "url": "http://trakt.tv/user/shashank"
+        },
+        {
+            "plays": 10,
+            "username": "PO7H3AD",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatar-large.jpg",
+            "url": "http://trakt.tv/user/PO7H3AD"
+        },
+        {
+            "plays": 9,
+            "username": "feerlessleadr",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatars/324.jpg",
+            "url": "http://trakt.tv/user/feerlessleadr"
+        },
+        {
+            "plays": 9,
+            "username": "kurri",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatars/773.jpg",
+            "url": "http://trakt.tv/user/kurri"
+        },
+        {
+            "plays": 9,
+            "username": "sickyd",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatars/4609.1.jpg",
+            "url": "http://trakt.tv/user/sickyd"
+        },
+        {
+            "plays": 9,
+            "username": "ath3na",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatars/56744.1.jpg",
+            "url": "http://trakt.tv/user/ath3na"
+        },
+        {
+            "plays": 9,
+            "username": "DryGoatAir",
+            "protected": false,
+            "full_name": null,
+            "gender": null,
+            "age": "",
+            "location": null,
+            "about": null,
+            "joined": 0,
+            "avatar": "http://slurm.trakt.us/images/avatar-large.jpg",
+            "url": "http://trakt.tv/user/DryGoatAir"
+        }
+    ],
+    "top_episodes": [
+        {
+            "plays": 754,
+            "season": 1,
+            "number": 1,
+            "title": "Pilot",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/1",
+            "first_aired": 1359532800
+        },
+        {
+            "plays": 601,
+            "season": 1,
+            "number": 2,
+            "title": "The Clock",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/2",
+            "first_aired": 1360137600
+        },
+        {
+            "plays": 549,
+            "season": 1,
+            "number": 3,
+            "title": "Gregory",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/3",
+            "first_aired": 1360742400
+        },
+        {
+            "plays": 465,
+            "season": 1,
+            "number": 4,
+            "title": "In Control",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/4",
+            "first_aired": 1361347200
+        },
+        {
+            "plays": 440,
+            "season": 1,
+            "number": 5,
+            "title": "COMINT",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/5",
+            "first_aired": 1361952000
+        },
+        {
+            "plays": 411,
+            "season": 1,
+            "number": 6,
+            "title": "Trust Me",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/6",
+            "first_aired": 1362556800
+        },
+        {
+            "plays": 361,
+            "season": 1,
+            "number": 7,
+            "title": "Duty and Honor",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/7",
+            "first_aired": 1363158000
+        },
+        {
+            "plays": 149,
+            "season": 1,
+            "number": 8,
+            "title": "Mutually Assured Destruction",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/8",
+            "first_aired": 1363762800
+        },
+        {
+            "plays": 5,
+            "season": 0,
+            "number": 1,
+            "title": "Series Premiere Sneak Peek",
+            "url": "http://trakt.tv/show/the-americans-2013/specials/episode/1",
+            "first_aired": 0
+        },
+        {
+            "plays": 4,
+            "season": 1,
+            "number": 13,
+            "title": "TBA",
+            "url": "http://trakt.tv/show/the-americans-2013/season/1/episode/13",
+            "first_aired": 1367391600
+        }
+    ],
+    "ratings": {
+        "percentage": 83,
+        "votes": 167,
+        "loved": 158,
+        "hated": 9
+    },
+    "stats": {
+        "watchers": 1005,
+        "plays": 3739,
+        "scrobbles": 3095,
+        "scrobbles_unique": 817,
+        "checkins": 644,
+        "checkins_unique": 206,
+        "collection": 0,
+        "collection_unique": 0
+    },
+    "people": {
+        "actors": [
+            {
+                "name": "Keri Russell",
+                "character": "Elizabeth Jennings"
+            },
+            {
+                "name": "Matthew Rhys",
+                "character": "Phillip Jennings"
+            },
+            {
+                "name": "Noah Emmerich",
+                "character": "Stan"
+            },
+            {
+                "name": "Holly Taylor",
+                "character": "Paige Jennings"
+            },
+            {
+                "name": "Keidrich Selati",
+                "character": "Henry Jennings"
+            },
+            {
+                "name": "Maximiliano Hernandez",
+                "character": "FBI Agent Chris Amador"
+            }
+        ]
+    },
+    "genres": [
+        "Drama"
+    ]
+}

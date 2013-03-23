@@ -1,0 +1,111 @@
+[
+    {
+        "date": "2011-04-21",
+        "episodes": [
+            {
+                "show": {
+                    "title": "",
+                    "year": 2011,
+                    "url": "http://trakt.tv/show",
+                    "first_aired": 1299139200,
+                    "country": null,
+                    "overview": "",
+                    "runtime": 50,
+                    "network": "",
+                    "air_day": "Thursday",
+                    "air_time": "4:00pm",
+                    "certification": "",
+                    "imdb_id": "",
+                    "tvdb_id": "243851",
+                    "tvrage_id": "0",
+                    "images": {
+                        "poster": "http://slurm.trakt.us/images/posters/10622.jpg",
+                        "fanart": "http://slurm.trakt.us/images/fanart/10622.jpg",
+                        "banner": "http://slurm.trakt.us/images/banner.jpg"
+                    },
+                    "ratings": {
+                        "percentage": 0,
+                        "votes": 0,
+                        "loved": 0,
+                        "hated": 0
+                    },
+                    "genres": [
+                        ""
+                    ]
+                },
+                "episode": {
+                    "season": 1,
+                    "number": 8,
+                    "title": "",
+                    "overview": "",
+                    "url": "http://trakt.tv/show/season/1/episode/8",
+                    "first_aired": 1303369200,
+                    "images": {
+                        "screen": "http://slurm.trakt.us/images/fanart/10622-940.jpg"
+                    },
+                    "ratings": {
+                        "percentage": 100,
+                        "votes": 1,
+                        "loved": 1,
+                        "hated": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "date": "2011-04-22",
+        "episodes": [
+            {
+                "show": {
+                    "title": "Gosick",
+                    "year": 2011,
+                    "url": "http://trakt.tv/show/gosick",
+                    "first_aired": 1294387200,
+                    "country": "Japan",
+                    "overview": "In a European country neatly tucked beside the Alps Kazuya Kujo returns from studying abroad at the prestigious Saint Marguerite Academy, where urban legends and horror stories are popular. His brainy friend, Victorique, is much more intrigued by true stories, and she uses her unrivaled logic to solve mysteries even the town's famous detective can't.",
+                    "runtime": 25,
+                    "network": "TV Tokyo",
+                    "air_day": "Friday",
+                    "air_time": "4:00pm",
+                    "certification": "",
+                    "imdb_id": "",
+                    "tvdb_id": "218191",
+                    "tvrage_id": "27270",
+                    "images": {
+                        "poster": "http://slurm.trakt.us/images/posters/2148.jpg",
+                        "fanart": "http://slurm.trakt.us/images/fanart/2148.jpg",
+                        "banner": "http://slurm.trakt.us/images/banners/2148.jpg"
+                    },
+                    "ratings": {
+                        "percentage": 90,
+                        "votes": 28,
+                        "loved": 27,
+                        "hated": 1
+                    },
+                    "genres": [
+                        "Animation",
+                        "Drama"
+                    ]
+                },
+                "episode": {
+                    "season": 1,
+                    "number": 14,
+                    "title": "A Malicious Frill Denounces a Farting Newt",
+                    "overview": "Victorique is dragged by her teacher to her classroom and is introduced to the rest of her classmates. Avril tries to bring her attention but she gets angry on her instead. Kujo demands Victorique to apologize to her, and when she refuses, he sets with Avril to keep investigating the Leviathan case without her help. Meanwhile Victorique has an encounter with Brian Roscoe, a friend of the victim's, on the top of the clock tower. ",
+                    "url": "http://trakt.tv/show/gosick/season/1/episode/14",
+                    "first_aired": 1303455600,
+                    "images": {
+                        "screen": "http://slurm.trakt.us/images/episodes/2148-1-14.jpg"
+                    },
+                    "ratings": {
+                        "percentage": 100,
+                        "votes": 1,
+                        "loved": 1,
+                        "hated": 0
+                    }
+                }
+            }
+        ]
+    }
+]

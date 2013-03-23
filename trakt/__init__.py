@@ -1,5 +1,3 @@
-import hashlib
-import os
 __author__ = 'Andrea De Marco <24erre@gmail.com>'
 __version__ = '0.1'
 __classifiers__ = [
@@ -38,26 +36,3 @@ __doc__ = """
 :date: 2013-03-22
 :copyright: %s
 """ % (__version__, __author__, __license__)
-
-
-from trakt.api import *
-calendar = Calendar
-search = Search
-server = Server
-show = Show
-shows = Shows
-
-
-def setup(apikey=None, username=None, password=None):
-    if apikey:
-        os.environ['TRAKT_APIKEY'] = apikey
-    if username:
-        os.environ['TRAKT_USERNAME'] = username
-    if password:
-        os.environ['TRAKT_PASSWORD'] = hashlib.sha1(password).hexdigest()
-
-
-def reset():
-    for var in ('TRAKT_APIKEY', 'TRAKT_USERNAME', 'TRAKT_PASSWORD'):
-        if var in os.environ:
-            del os.environ[var]

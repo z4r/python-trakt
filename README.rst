@@ -28,15 +28,15 @@ trakt API usage
 ::
 
     import trakt
-    trakt.setup(apikey=<YOUR_APIKEY>)
-    trakt.search.shows('walking dead')
+    trakt.tv.setup(apikey=<YOUR_APIKEY>)
+    trakt.tv.search.shows('walking dead')
 
 You can perform auth request
 ::
 
     import trakt
-    trakt.setup(apikey=<YOUR_APIKEY>, username=<USER>, password=<PWD>)
-    trakt.show.episode('the-walking-dead', 1, 1)
+    trakt.tv.setup(apikey=<YOUR_APIKEY>, username=<USER>, password=<PWD>)
+    trakt.tv.show.episode('the-walking-dead', 1, 1)
 
 .. _license:
 

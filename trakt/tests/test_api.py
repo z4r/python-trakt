@@ -26,14 +26,14 @@ class ApiTestCase(TestCase):
             'http://api.trakt.tv/shows/updated.json/TRAKTAPIKEY',
             body=get_trakt_body('invalid_apikey.json'),
         )
-        trakt.setup(username='USER', password='PWD')
+        trakt.tv.setup(username='USER', password='PWD')
         self.assertRaises(TraktException, AbstractApi._get, 'shows/updated')
         self.assertEqual(len(HTTPretty.latest_requests), 1)
         self.assertEqual(
             HTTPretty.last_request.headers['Authorization'],
             'Basic VVNFUjpmNzNlMTEwNDI3NjQ4MDE0NTY4ZjcxNDQwMzFhNmQ0ODA2MGVhYjBh'
         )
-        trakt.reset()
+        trakt.tv.reset()
 
 
 class ShowsTestCase(TestCase):

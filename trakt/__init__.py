@@ -1,5 +1,5 @@
 __author__ = 'Andrea De Marco <24erre@gmail.com>'
-__version__ = '0.2'
+__version__ = '0.1'
 __classifiers__ = [
     'Development Status :: 5 - Production/Stable',
     'Intended Audience :: Developers',
@@ -36,6 +36,3 @@ __doc__ = """
 :date: 2013-03-22
 :copyright: %s
 """ % (__version__, __author__, __license__)
-
-
-import tv

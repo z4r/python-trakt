@@ -14,7 +14,7 @@ def setup(apikey=None, username=None, password=None):
     if username:
         os.environ['TRAKT_USERNAME'] = username
     if password:
-        os.environ['TRAKT_PASSWORD'] = hashlib.sha1(password).hexdigest()
+        os.environ['TRAKT_PASSWORD'] = hashlib.sha1(password.encode('utf-8')).hexdigest()
 
 
 def reset():

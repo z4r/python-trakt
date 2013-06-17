@@ -1,11 +1,14 @@
 __author__ = 'Andrea De Marco <24erre@gmail.com>'
-__version__ = '0.1'
+__version__ = '1.0'
 __classifiers__ = [
     'Development Status :: 5 - Production/Stable',
     'Intended Audience :: Developers',
     'License :: OSI Approved :: Apache Software License',
     'Operating System :: OS Independent',
     'Programming Language :: Python',
+    'Programming Language :: Python :: 2.6',
+    'Programming Language :: Python :: 2.7',
+    'Programming Language :: Python :: 3.3',
     'Topic :: Internet :: WWW/HTTP',
     'Topic :: Software Development :: Libraries',
 ]

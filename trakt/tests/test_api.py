@@ -68,7 +68,7 @@ class CalendarTestCase(TestCase):
             'http://api.trakt.tv/calendar/shows.json/TRAKTAPIKEY/20110421/2',
             body=get_trakt_body('calendar/shows.json'),
         )
-        response = Calendar.shows(date=datetime.date(year=2011, month=04, day=21), days=2)
+        response = Calendar.shows(date=datetime.date(year=2011, month=4, day=21), days=2)
         self.assertEqual(response[0]['date'], '2011-04-21')
         self.assertEqual(len(HTTPretty.latest_requests), 1)
 
@@ -90,7 +90,7 @@ class CalendarTestCase(TestCase):
             'http://api.trakt.tv/calendar/premieres.json/TRAKTAPIKEY/20110421/2',
             body=get_trakt_body('calendar/shows.json'),
         )
-        response = Calendar.premieres(date=datetime.date(year=2011, month=04, day=21), days=2)
+        response = Calendar.premieres(date=datetime.date(year=2011, month=4, day=21), days=2)
         self.assertEqual(response[0]['date'], '2011-04-21')
         self.assertEqual(len(HTTPretty.latest_requests), 1)
 
@@ -160,10 +160,10 @@ class ShowTestCase(TestCase):
         HTTPretty.register_uri(
             HTTPretty.GET,
             'http://api.trakt.tv/show/season.json/TRAKTAPIKEY/261690/1',
-            body=get_trakt_body('show/related.json'),
+            body=get_trakt_body('show/season.json'),
         )
         response = Show.season(title=261690, season=1)
-        self.assertEqual(len(response), 10)
+        self.assertEqual(len(response), 13)
         self.assertEqual(len(HTTPretty.latest_requests), 1)
 
     @httprettified

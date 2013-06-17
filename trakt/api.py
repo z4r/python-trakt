@@ -1,5 +1,8 @@
 import os
-import urllib
+try:
+    from urllib import quote_plus
+except ImportError:
+    from urllib.parse import quote_plus
 import requests
 from trakt.errors import TraktException
 __all__ = (
@@ -105,7 +108,7 @@ class Search(AbstractApi):
 
         :param query: The search query that should be used
         """
-        return cls._get('search/shows', urllib.quote_plus(query.encode('utf8')))
+        return cls._get('search/shows', quote_plus(query.encode('utf8')))
 
 
 class Show(AbstractApi):

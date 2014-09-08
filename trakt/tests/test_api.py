@@ -198,7 +198,7 @@ class UserTestCase(TestCase):
             body=get_trakt_body('user/shows_watched.json'),
         )
         response = User.shows_watched('justin')
-        self.assertEqual(len(response), 149)
+        self.assertEqual(len(response), 2)
         self.assertEqual(response[0]['title'], '$#*! My Dad Says')
-        self.assertEqual(response[148]['title'], 'The X-Files')
+        self.assertEqual(response[1]['title'], '10 Items Or Less')
         self.assertEqual(len(HTTPretty.latest_requests), 1)

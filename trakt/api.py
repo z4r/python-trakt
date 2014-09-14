@@ -174,7 +174,7 @@ class User(AbstractApi):
         Returns all shows and episodes that a user has watched.
 
         :param username: the user
-        :param extendend: Returns complete season and episode info (False)
+        :param extended: Returns complete show info (False)
         """
         extended = 'extended' if extended else None
         return cls._get('user/library/shows/watched', username, extended)

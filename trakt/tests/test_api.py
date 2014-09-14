@@ -187,3 +187,18 @@ class ShowTestCase(TestCase):
         response = Show.summary(title=261690)
         self.assertEqual(response['title'], 'The Americans (2013)')
         self.assertEqual(len(HTTPretty.latest_requests), 1)
+
+
+class UserTestCase(TestCase):
+    @httprettified
+    def test_shows_watched(self):
+        HTTPretty.register_uri(
+            HTTPretty.GET,
+            'http://api.trakt.tv/user/library/shows/watched.json/TRAKTAPIKEY/justin',
+            body=get_trakt_body('user/shows_watched.json'),
+        )
+        response = User.shows_watched('justin')
+        self.assertEqual(len(response), 2)
+        self.assertEqual(response[0]['title'], '$#*! My Dad Says')
+        self.assertEqual(response[1]['title'], '10 Items Or Less')
+        self.assertEqual(len(HTTPretty.latest_requests), 1)

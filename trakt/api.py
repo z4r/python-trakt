@@ -11,6 +11,7 @@ __all__ = (
     'Server',
     'Search',
     'Show',
+    'User',
 )
 
 
@@ -164,3 +165,16 @@ class Show(AbstractApi):
         """
         extendend = 'extended' if extendend else None
         return cls._get('show/summary', title, extendend)
+
+
+class User(AbstractApi):
+    @classmethod
+    def shows_watched(cls, username, extended=False):
+        """
+        Returns all shows and episodes that a user has watched.
+
+        :param username: the user
+        :param extended: Returns complete show info (False)
+        """
+        extended = 'extended' if extended else None
+        return cls._get('user/library/shows/watched', username, extended)

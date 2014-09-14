@@ -6,6 +6,7 @@ search = Search
 server = Server
 show = Show
 shows = Shows
+user = User
 
 
 def setup(apikey=None, username=None, password=None):
